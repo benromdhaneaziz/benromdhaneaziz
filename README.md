@@ -2,7 +2,7 @@
 
 ### 🌐 Portfolio: [benromdhaneaziz-github-io.vercel.app](https://benromdhaneaziz-github-io.vercel.app)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4F46E5&center=false&vCenter=true&width=750&lines=AI+%26+Backend+Engineer+%40+Worldsoft;Multi-Agent+AI+Systems+Builder;LLM+Pipelines+%C2%B7+RAG+%C2%B7+Voice+Agents;FastAPI+%2B+LangGraph+Developer;Data+Science+Engineering+Student+%40+ESPRIT;Python+%C2%B7+Java+%C2%B7+C%23+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4F46E5&center=false&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Multi-Agent+AI+Systems+Builder;LLM+Pipelines+%C2%B7+RAG+%C2%B7+Voice+Agents;FastAPI+%2B+LangGraph+Developer;Data+Science+Engineer+%C2%B7+ESPRIT+Graduate;Python+%C2%B7+Java+%C2%B7+C%23+Developer)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Vercel-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://benromdhaneaziz-github-io.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-ben-romdhane-986110408/)
@@ -18,7 +18,7 @@
 
 ```python
 aziz = {
-    "role":       "Software Engineer @ Worldsoft  |  Data Science Student @ ESPRIT",
+    "role":       "AI / Software Engineer @ Worldsoft  |  Data Science Engineer (ESPRIT)",
     "location":   "Tunisia 🇹🇳",
     "portfolio":  "https://benromdhaneaziz-github-io.vercel.app",
     "focus":      ["Multi-Agent AI Systems", "LLM Orchestration", "Voice AI", "Backend APIs"],
@@ -28,8 +28,8 @@ aziz = {
 }
 ```
 
-- 🏢 **Software Engineer** at **Worldsoft** — building production-scale AI travel systems
-- 🎓 **Data Science Engineering** student at **ESPRIT**, Tunisia
+- 🏢 **AI / Software Engineer** at **Worldsoft** — building production-scale AI travel systems
+- 🎓 **Engineering degree in Data Science** (Bac+5) from **ESPRIT**, Tunisia — graduated Dec 2025
 - 🤖 Specialist in **tool-calling agents**, **LangGraph pipelines**, **RAG**, **FastAPI** backends, **Angular / React** dashboards
 - 🏗️ Past: **Prosper Us** (C# / .NET), **AS2E** (WordPress & Google Apps Script)
 - 🏆 **9 certifications** — NVIDIA, DeepLearning.AI (×4), Microsoft Azure (×3), Hashgraph
